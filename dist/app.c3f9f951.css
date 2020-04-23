@@ -1,0 +1,22 @@
+body {
+  background: #91a7ff;
+}
+body h1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  text-align: center;
+}
+body #_parcel_075f4 {
+  width: 400px;
+  height: 374px;
+  margin: 0 auto;
+  background: url("/test.284ec1b8.png");
+}
+
+/*# sourceMappingURL=/app.c3f9f951.css.map */

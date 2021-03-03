@@ -9,7 +9,7 @@
     "autoprefixer": "^9.7.6",
     "parcel": "^1.12.4",
     "postcss-modules": "^2.0.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "sass": "^1.26.3"
   },
   "browserslist": [
